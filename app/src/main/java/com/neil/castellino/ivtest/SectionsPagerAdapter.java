@@ -1,4 +1,4 @@
-package com.neil.castellino.ivtest.ui.main;
+package com.neil.castellino.ivtest;
 
 import android.content.Context;
 
@@ -7,11 +7,6 @@ import androidx.annotation.StringRes;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
-
-import com.neil.castellino.ivtest.FragmentBooks;
-import com.neil.castellino.ivtest.FragmentMusic;
-import com.neil.castellino.ivtest.FragmentGames;
-import com.neil.castellino.ivtest.R;
 
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
